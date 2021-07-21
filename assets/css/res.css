@@ -272,6 +272,11 @@
             margin-top: -500px;
         }
     }
+    
+     .body-wedding-video-play-popup {
+        top: 42%;
+        left: 44%;
+    }
 
     /* instagram */
     .body-instagram-img-row.row {
